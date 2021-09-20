@@ -28,3 +28,9 @@ What is the Syntax of a Css Rule?
 Declarations:
 - The collection of property-value pairs.
 - Example : #selector { font-size: 10px; color: red;}
+
+### 3 Ways to add CSS
+- Inline, Embedded Style Sheet and External Style Sheet. 
+- Inline targets the specific element.
+- Embedded style targets elements on specific page.
+- We use External Style Sheets for declaration of Global Styles.
