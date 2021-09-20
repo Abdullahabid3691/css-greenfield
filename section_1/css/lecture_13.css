@@ -3,5 +3,13 @@ p {
 }
 
 #main-content p{
-    color: purple;
+    color: purple !important;
+}
+
+p {
+    color: red !important;
+}
+
+#main-content p{
+    color: black !important;
 }
