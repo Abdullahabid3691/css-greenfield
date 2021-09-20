@@ -4,21 +4,24 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
-        #header h1 {
-            font-size: 8px;
+        #embed {
+            font-size: 12px;
+            color: red;
         }
 
         #header p {
             color: red;
         }
 
-        /*Embedded Styling*/
+        /*TODO: Embedded Styling is not replacing external styles */
     </style>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <div id="header">
-    <h1>Selectors</h1>
+    <h1>Style Defined in External Css</h1>
+    <h1 id="embed">Style overridden in Embedded css.</h1>
     <!--        Inline Styling-->
     <h2 style="font-size: 12px; color: purple">In Css</h2>
     <p>Welcome to the website</p>
