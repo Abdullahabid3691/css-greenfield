@@ -1,0 +1,7 @@
+p {
+    color: green !important;
+}
+
+#main-content p{
+    color: purple;
+}

@@ -16,3 +16,4 @@ Lecture Covered:
 - 10 - CSS Conflicts & the Cascade
 - 11 - Inheritance
 - 12 - Selector Specificity
+- 13 - The Importance Declaration
