@@ -18,3 +18,6 @@ Lecture Covered:
 - 12 - Selector Specificity
 - 13 - The Important Declaration
 - 14 - Targeting Multiple Elements
+- 15 - Descendant Selectors
+- 16 - Child Selectors
+- 17 - Adjacent Selectors
