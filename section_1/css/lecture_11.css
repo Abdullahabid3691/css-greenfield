@@ -10,3 +10,10 @@ p {
     color: green
 }
 
+#main-content p{
+    color: purple;
+}
+
+.test_specificity {
+    color: aqua;
+}
