@@ -1,0 +1,7 @@
+#main-content p{
+    color: purple;
+} /* Grab all the descendants */
+
+#main-content > p {
+    color: aqua;
+} /* Grab only the direct children */
