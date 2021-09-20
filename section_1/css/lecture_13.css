@@ -13,3 +13,9 @@ p {
 #main-content p{
     color: black !important;
 }
+
+p, a , span, li {
+    font-size: 19px;
+    font-family: Arial, serif;
+    color: deeppink
+}

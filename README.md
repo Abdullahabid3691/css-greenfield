@@ -17,3 +17,4 @@ Lecture Covered:
 - 11 - Inheritance
 - 12 - Selector Specificity
 - 13 - The Important Declaration
+- 14 - Targeting Multiple Elements
