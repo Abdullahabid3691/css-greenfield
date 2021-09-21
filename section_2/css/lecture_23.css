@@ -1,0 +1,19 @@
+#list_1 li:nth-child(1) {
+    color: red;
+}
+
+#list_1 li:nth-child(9) {
+    color: green;
+}
+
+#list_1 li:nth-child(3n + 1) {
+    color: brown;
+}
+
+#list_2 li:nth-child(even) {
+    color: red;
+}
+
+#list_2 li:nth-child(odd) {
+   color: green;
+}

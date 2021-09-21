@@ -25,4 +25,5 @@ Lecture Covered:
 - 19 - Pseudo Selectors
 - 20 - Hover, Active, Visited, ... , Pseudo Classes
 - 21 - First Child and Last Child selector
-- 21 - First and Last of Type selector
+- 22 - First and Last of Type selector
+- 23 - nth Child Selectors
