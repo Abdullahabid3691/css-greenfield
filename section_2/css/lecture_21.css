@@ -1,7 +1,17 @@
 article p:first-child {
-    font-weight: bold;
+    /*font-weight: bold;*/
+    color: gray;
 }
 
 article p:last-child{
     color: red;
+}
+
+article p:first-of-type {
+    font-weight: bold;
+    color: lightseagreen;
+}
+
+article p:last-of-type {
+    color: green;
 }
