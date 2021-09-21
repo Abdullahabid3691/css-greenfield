@@ -22,3 +22,5 @@ Lecture Covered:
 - 16 - Child Selectors
 - 17 - Adjacent Selectors
 - 18 - Attribute Selectors
+- 19 - Pseudo Selectors
+- 20 - Hover, Active, Visited, ... , Pseudo Classes
