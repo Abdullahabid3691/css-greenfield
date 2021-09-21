@@ -29,3 +29,5 @@ Lecture Covered:
 - 23 - nth Child Selectors
 - 24 - nth-of-type Selectors
 - 25 - Combining Selectors
+- 26 - The Universal Selector
+- 27 - Font Size
