@@ -31,3 +31,6 @@ Lecture Covered:
 - 25 - Combining Selectors
 - 26 - The Universal Selector
 - 27 - Font Size
+- 28 - Font Family
+- 29 - Text Decoration
+- 30 - Font Weight

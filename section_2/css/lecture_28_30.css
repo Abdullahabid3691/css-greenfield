@@ -1,0 +1,13 @@
+h2 {
+    font-family: Courier, serif;
+    font-size: 3em;
+}
+a {
+    text-decoration: overline;
+    color: red;
+}
+
+p {
+    font-weight: bolder;
+    color: gray;
+}
