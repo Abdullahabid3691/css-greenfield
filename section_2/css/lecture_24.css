@@ -1,0 +1,7 @@
+article:nth-of-type(even) {
+    background: gray;
+}
+
+article:nth-of-type(odd){
+    background: burlywood;
+}

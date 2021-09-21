@@ -27,3 +27,4 @@ Lecture Covered:
 - 21 - First Child and Last Child selector
 - 22 - First and Last of Type selector
 - 23 - nth Child Selectors
+- 24 - nth-of-type Selectors
