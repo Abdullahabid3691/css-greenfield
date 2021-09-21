@@ -1,0 +1,35 @@
+/* Attribute Selectors
+Lose Targeting
+    - Target all divs that has 'id' attribute attached to them.
+
+Specific Targeting:
+    - Target divs that have specific class(es) attached to them.
+
+Pattern Match:
+    - ~ (contains)
+    - $ (ends with)
+    - ^ (starts with)
+*/
+/*Lose Targeting*/
+div[id] {
+    color: green;
+}
+
+/*Specific Value Targeting*/
+
+span[class='sp-link'] {
+    color: purple;
+}
+
+/*Pattern Match*/
+span[class~='other'] {
+    color: red;
+}
+
+a[href$='.pdf'] {
+    color: lightseagreen;
+}
+
+a[href^='www'] {
+    color: brown;
+}

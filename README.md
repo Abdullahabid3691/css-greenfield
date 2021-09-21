@@ -21,3 +21,4 @@ Lecture Covered:
 - 15 - Descendant Selectors
 - 16 - Child Selectors
 - 17 - Adjacent Selectors
+- 18 - Attribute Selectors
