@@ -34,3 +34,7 @@ Lecture Covered:
 - 28 - Font Family
 - 29 - Text Decoration
 - 30 - Font Weight
+- 31 - Text Transform
+- 32 - Text Colour
+- 33 - Styling Links
+- 34 - Letter Spacing & Line Height

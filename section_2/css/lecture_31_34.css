@@ -1,0 +1,24 @@
+h2 {
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: overline;
+    color: red;
+}
+a:hover {
+    text-decoration: overline;
+    color: gray;
+}
+
+p {
+    font-weight: bolder;
+    color: gray;
+}
+
+article {
+    background: burlywood;
+    line-height: 2em;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
