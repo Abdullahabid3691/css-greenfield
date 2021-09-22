@@ -16,3 +16,10 @@ h2 {;
     width: 400px;
     border: black solid 1px;
 }
+
+.masked-block {
+    border: solid 1px black;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+}

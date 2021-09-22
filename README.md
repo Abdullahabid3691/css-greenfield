@@ -41,3 +41,7 @@ Lecture Covered:
 - 35 - Paragraph Spacing
 - 36 - The Box Model
 - 37 - Margin Shorthands and Margin Collapse
+- 38 - Padding Shorthands
+- 39 - Padding & Margin Long-hand
+- 40 - Border
+- 41 - Inline and Block-level Elements
