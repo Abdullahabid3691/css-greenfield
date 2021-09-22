@@ -49,3 +49,6 @@ Lecture Covered:
 - 43 - Rounded Corners
 - 44 - Backgrounds
 - 45 - Background Shorthand
+- 46 - Multiple Backgrounds
+- 47 - Color
+- 48 - Opacity
