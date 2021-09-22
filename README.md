@@ -52,3 +52,5 @@ Lecture Covered:
 - 46 - Multiple Backgrounds
 - 47 - Color
 - 48 - Opacity
+- 49 - CSS Gradients
+- 50 - Box Shadow
