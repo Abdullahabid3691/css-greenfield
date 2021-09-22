@@ -45,3 +45,4 @@ Lecture Covered:
 - 39 - Padding & Margin Long-hand
 - 40 - Border
 - 41 - Inline and Block-level Elements
+- 42 - Width & Height

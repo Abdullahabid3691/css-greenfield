@@ -13,8 +13,26 @@ h2 {;
 .ham {
     margin: 20px auto;
     padding: 20px;
-    width: 400px;
+    width: auto;
     border: black solid 1px;
+}
+
+.centered-bordered {
+    border: black solid 1px;
+    background: lightgray;
+    margin: 5px
+}
+
+.width-fixed {
+    width: 300px;
+}
+
+.width-percentage {
+    width: 50%;
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 .masked-block {
