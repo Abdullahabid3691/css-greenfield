@@ -1,0 +1,9 @@
+body{
+    background: gray;
+    margin: 1px;
+}
+.content {
+    background: white;
+    height: auto;
+    padding: 20px;
+}

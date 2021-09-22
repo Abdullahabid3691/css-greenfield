@@ -40,3 +40,4 @@ Lecture Covered:
 - 34 - Letter Spacing & Line Height
 - 35 - Paragraph Spacing
 - 36 - The Box Model
+- 37 - Margin Shorthands and Margin Collapse

@@ -1,12 +1,3 @@
-body{
-    background: gray;
-    margin: 1px;
-}
-.content {
-    background: white;
-    height: auto;
-    padding: 20px;
-}
 
 p {
     font-size: 14px;
@@ -14,12 +5,14 @@ p {
     margin-bottom: 12px;
 }
 
-/*h2 {;*/
-/*    margin: inherit;*/
-/*}*/
+h2 {;
+    margin: auto auto;
+    width: max-content;
+}
 
 .ham {
-    margin: 20px;
+    margin: 20px auto;
     padding: 20px;
+    width: 400px;
     border: black solid 1px;
 }
