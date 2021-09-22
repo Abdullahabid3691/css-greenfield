@@ -46,3 +46,6 @@ Lecture Covered:
 - 40 - Border
 - 41 - Inline and Block-level Elements
 - 42 - Width & Height
+- 43 - Rounded Corners
+- 44 - Backgrounds
+- 45 - Background Shorthand
