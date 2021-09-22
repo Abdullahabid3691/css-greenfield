@@ -1,5 +1,25 @@
+body{
+    background: gray;
+    margin: 1px;
+}
+.content {
+    background: white;
+    height: auto;
+    padding: 20px;
+}
+
 p {
     font-size: 14px;
     line-height: 2em;
     margin-bottom: 12px;
+}
+
+/*h2 {;*/
+/*    margin: inherit;*/
+/*}*/
+
+.ham {
+    margin: 20px;
+    padding: 20px;
+    border: black solid 1px;
 }
