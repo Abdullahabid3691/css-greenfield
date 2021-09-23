@@ -1,46 +1,40 @@
-body{
-    margin: 0;
+body {
     background: #eee;
-    font-family: arial, serif;
-}
-.wrapper{
-    width: 980px;
-    margin: 0 auto;
-    background: #fff;
+    margin: 0;
 }
 
-.navbar{
+#wrapper {
+    width: 980px;
+    margin: 0 auto;
+}
+
+#main-navigation {
     background: #181818;
     padding: 10px;
 }
 
-.nav-item{
+#main-navigation a.current {
+    background: #8f746c;
+    border-radius: 5px;
+}
 
-    text-decoration: none;
-    display: inline-block;
-    text-transform: uppercase;
+#main-navigation a {
+    color: white;
     font-size: 14px;
+    text-transform: uppercase;
+    font-family: Arial, serif;
+    text-decoration: none;
+    padding: 10px;
 }
 
-.nav-button{
-    color: white;
-    background: #8F746C;
-    border-radius: 4px;
-    text-align: -webkit-center;
-}
-
-.nav-link{
-    color: white;
-    padding: 6px;
-}
-
-ul {
+#main-navigation ul {
     list-style-type: none;
-    margin-right: 10px;
     text-align: right;
 }
 
-li {
+#main-navigation ul li {
     display: inline-block;
-    margin-left: 20px;
+    padding-right: 10px;
+    /*Todo: why use margin-right here?*/
+    /*margin-right: 10px;*/
 }
