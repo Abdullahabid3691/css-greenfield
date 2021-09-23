@@ -1,6 +1,6 @@
 # css-greenfield
 
-### Tutorial Series
+### Tutorial Series #1: CSS Basics
 `Playlist: https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT`
 
 Lecture Covered:
@@ -54,3 +54,12 @@ Lecture Covered:
 - 48 - Opacity
 - 49 - CSS Gradients
 - 50 - Box Shadow
+
+### Tutorial Series #2: Bootstrap 3
+`Playlist: https://www.youtube.com/watch?v=xvfm7IpEkBk&list=PL4cUxeGkcC9g_69kOfXICzT_hZ79_td99`
+
+Lecture Covered:
+- 01 - Introduction To Bootstrap
+- 02 - How to Use Bootstrap in your Project
+- 03 - Bootstrap Grid System (Intro)
+- 04 - Bootstrap Containers

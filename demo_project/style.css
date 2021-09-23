@@ -1,6 +1,7 @@
 body {
     background: #eee;
     margin: 0;
+    font-family: Arial, serif;
 }
 
 #wrapper {
@@ -22,7 +23,6 @@ body {
     color: white;
     font-size: 14px;
     text-transform: uppercase;
-    font-family: Arial, serif;
     text-decoration: none;
     padding: 10px;
 }
@@ -47,7 +47,6 @@ body {
     text-align: center;
     height: auto;
     background: #ffff;
-    font-family: Arial serif;
 }
 .product-image{
     margin: 30px auto 10px auto;
