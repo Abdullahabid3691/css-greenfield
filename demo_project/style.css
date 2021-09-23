@@ -38,3 +38,39 @@ body {
     /*Todo: why use margin-right here?*/
     /*margin-right: 10px;*/
 }
+
+#lead-banner img{
+    width: 100%;
+}
+
+#shop{
+    text-align: center;
+    height: auto;
+    background: #ffff;
+    font-family: Arial serif;
+}
+.product-image{
+    margin: 30px auto 10px auto;
+}
+.product-name{
+  font-size: 16px;
+    margin: 2px auto 0 auto;
+}
+.price{
+  font-size: 58px;
+}
+#shop .add-to-bag {
+    text-decoration: none;
+    border: 2px solid #9f746c;
+    padding: 10px;
+    width: max-content;
+    display: block;
+    color: #8f746c;
+    margin: 10px auto;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+#footer-banner{
+    width: 100%;
+}
