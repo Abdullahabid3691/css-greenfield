@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.content {
+    background: lightgray;
+}
+
+.sidebar {
+    background: darkgray;
+}
+
+.thumb:nth-child(odd){
+    background: darkgray;
+}

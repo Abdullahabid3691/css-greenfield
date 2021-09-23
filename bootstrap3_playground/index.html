@@ -2,29 +2,60 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
           integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <title>Title</title>
 </head>
 <body>
-
-    <div class="container-fluid">
+<div class="wrapper">
+    <div class="container-fluid" hidden>
         <div class="row">
-<!--            TODO: Why don't xs-12 works well when used in-conjunction with sm-6-->
+            <!--            TODO: Why don't xs-12 works well when used in-conjunction with sm-6-->
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2">Take 2col width on LG devices</div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2">Should display 4 cols stack on medium</div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2">Should display 2 cols on small device</div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2">Should display 1 column on extra sm devices</div>
-            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2" >Should display in same line in big screen, Medium - on new line</div>
-            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2" >Extra column 2</div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2">Should display in same line in big screen, Medium - on new
+                line
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-2">Extra column 2</div>
             <div class="col-xs-12 col-md-6 col-lg-6">COl #1</div>
             <div class="col-xs-12  col-md-6 col-lg-6">COl #2</div>
         </div>
         <div class="row">
-<!--            <div class="col-xs-2">Col #1</div>-->
+            <!--            <div class="col-xs-2">Col #1</div>-->
         </div>
 
     </div>
+
+    <div class="container-fluid">
+            <!--            TODO: Why don't xs-12 works well when used in-conjunction with sm-6-->
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-8 content">
+                <h4>Content</h4>
+                <p><strong>Large Screen: </strong>8 Columns</p>
+                <p><strong>Medium Screen: </strong>6 Columns</p>
+                <p><strong>Small Screen: </strong>12 Columns</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 sidebar">
+                <h4>Content</h4>
+                <p><strong>Large Screen: </strong>4 Columns</p>
+                <p><strong>Medium Screen: </strong>6 Columns</p>
+                <p><strong>Small Screen: </strong>12 Columns</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-2 thumb">Thumbnail</div>
+            <div class="col-xs-12 col-sm-6 col-md-2 thumb">Thumbnail</div>
+            <div class="col-xs-12 col-sm-6 col-md-2 thumb">Thumbnail</div>
+            <div class="col-xs-12 col-sm-6 col-md-2 thumb">Thumbnail</div>
+            <div class="col-xs-12 col-sm-6 col-md-2 thumb">Thumbnail</div>
+            <div class="col-xs-12 col-sm-6 col-md-2 thumb">Thumbnail</div>
+        </div>
+    </div>
+</div>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
