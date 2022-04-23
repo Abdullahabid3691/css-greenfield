@@ -63,3 +63,5 @@ Lecture Covered:
 - 02 - How to Use Bootstrap in your Project
 - 03 - Bootstrap Grid System (Intro)
 - 04 - Bootstrap Containers
+- 05 - Rows
+- 06 - Columns
